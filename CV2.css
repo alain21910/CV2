@@ -1,7 +1,7 @@
 .page{
 	width: 780px;
 	margin: auto;
-	font-family: 'source sans pro, calibri, tahoma, sans-serif;'
+	font-family: 'source sans pro, calibri, tahoma, sans-serif';
 	font-size: 16px;
 }
 
@@ -12,8 +12,12 @@
 .info{
 	float: left;
 }
-.photo{
+.div-photo{
 	float: right;
+}
+.photo{
+width: 150px;
+height: 150px;
 }
 .section{
 	margin-bottom: 70px;
