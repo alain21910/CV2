@@ -1,8 +1,17 @@
+body{
+	background-color: rgb(178, 190, 202);
+}
+
 .page{
 	width: 780px;
 	margin: auto;
-	font-family: 'source sans pro, calibri, tahoma, sans-serif';
+	font-family: 'relewey, Arial, Arial Black, Somic Sans MS, Courier New, Georgia, Impact, Times New Roman, Trebuchet MS, Verdana';
 	font-size: 16px;
+	border: 5px solid #459af0;
+	border-radius: 10px;
+	box-shadow: 2px 3px 4px black;
+	padding: 20px;
+	background-color: rgb(191, 213, 231);
 }
 
 .infophoto{
@@ -16,8 +25,8 @@
 	float: right;
 }
 .photo{
-width: 150px;
-height: 150px;
+width: 200px;
+height: 200px;
 }
 .section{
 	margin-bottom: 70px;
@@ -30,12 +39,12 @@ height: 150px;
 }
 
 .sec-droite{
-	margin-left: 250px;
+	margin-left: 150px;
 }
 h2{
 	font-size: 28px;
-	color: #3388BB;
-	border-bottom: 3px solid #3388DD;
+	color: rgb(44, 44, 66);
+	border-bottom: 3px solid blueviolet;
 }
 
 .duree{
@@ -47,7 +56,6 @@ h2{
 	font-weight: bold;
 	font-size: 20px;
 }
-
-#Expériences Professionelles p{
-	margin-bottom: 40 px;
+#forma-sec-gauche p{
+	margin-bottom: 30px;
 }
